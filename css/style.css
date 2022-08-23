@@ -2,7 +2,7 @@
   width: 100px;
 }
 .imgwebp {
-  width: 100%;
+  max-width: 570px;
   height: auto;
 }
 
