@@ -2,8 +2,8 @@
   width: 100px;
 }
 .imgwebp {
-  width: 570px;
-  height: auto;
+  max-height: 570px;
+  max-width: 570px;
 }
 
 body {
