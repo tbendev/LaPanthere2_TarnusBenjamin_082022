@@ -980,9 +980,9 @@ h4 {
     -webkit-box-shadow: none;
     box-shadow: none;
   }
-  .navbar-brand img {
-    max-height: 40px;
-    width: auto;
+  .logoP {
+    height: 40px;
+    width: 217px;
   }
   .nav-invert .navbar-header {
     float: none;
