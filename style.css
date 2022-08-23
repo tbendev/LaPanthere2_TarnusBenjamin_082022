@@ -1,3 +1,10 @@
+.logocenter {
+  width: 100px;
+}
+.imgwebp {
+  max-width: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
