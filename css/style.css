@@ -1,9 +1,6 @@
-.logocenter {
-  width: 100px;
-}
 .imgwebp {
-  max-height: 570px;
-  max-width: 570px;
+  height: 100%;
+  width: 100%;
 }
 
 body {
